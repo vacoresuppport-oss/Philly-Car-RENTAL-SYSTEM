@@ -1,0 +1,14 @@
+{
+  "name": "Remix: Philly Car System",
+  "description": "A high-performance Car Rental Management System with real-time fleet tracking and modern operations control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Firebase Firestore",
+    "Firebase Authentication",
+    "Real-time Tracking",
+    "Fleet Management",
+    "Digital Rental Agreements"
+  ]
+}
